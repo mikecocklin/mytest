@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-success">
-                <div class="panel-heading">List of Game of Thrones Characters</div>
+                <div class="panel-heading">There is much to see but first....</div>
 
                     @if(Auth::check())
                       <!-- Table -->

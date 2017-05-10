@@ -3,7 +3,7 @@
 @section('title', 'Create Car')
 
 @section('content')
-
+@if(Auth::user())
 <h1>Create New Car</h1>
 
 @include('includes.validationerrors')
@@ -28,5 +28,8 @@
     {{ Form::submit('Create A new car', array('class' => 'btn btn-primary')) }}
 
 {{ Form::close() }}
-
+@endif
+@if(Auth::guest())
+<h3>You must log in to create a new car</h3>
+@endif
 @endsection

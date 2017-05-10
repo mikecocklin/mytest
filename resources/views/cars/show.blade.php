@@ -3,8 +3,7 @@
 @section('title', 'Selected Car')
 
 @section('content')
-
-
+@if(Auth::user())
 <h1>Showing Your Car</h1>
 	@if(!empty($car->id))
   <div class="jumbotron text-left">
@@ -18,5 +17,8 @@
   @else
   <strong style="color:red">No Car with that id exists!</strong>
   @endif
-
+@endif
+@if(Auth::guest())
+<h3>You must log in to create a new car</h3>
+@endif
 @endsection

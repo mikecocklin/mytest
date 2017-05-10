@@ -3,7 +3,7 @@
 @section('title', 'Edit Car')
 @if(!empty($car->id))
 @section('content')
-
+ @if(Auth::check())
 <h1>Edit {{ $car->make }}</h1>
 
 @include('includes.validationerrors')
@@ -28,7 +28,10 @@
 	{!! Form::submit('Edit the Car!', array('class' => 'btn btn-primary')) !!}
 
 {!! Form::close() !!}
-
+@endif
+ @if(Auth::guest())
+ You need to be logged in to do this!
+ @endif
 @endsection
   @else
   @section('content')
