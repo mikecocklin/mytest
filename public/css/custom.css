@@ -1,0 +1,43 @@
+<style type="text/css">
+        
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+    a {
+        color: white;
+    }
+
+
+
+
+.btn-success {
+  background: #c3d0d9;
+  background-image: -webkit-linear-gradient(top, #c3d0d9, #9c9d9e);
+  background-image: -moz-linear-gradient(top, #c3d0d9, #9c9d9e);
+  background-image: -ms-linear-gradient(top, #c3d0d9, #9c9d9e);
+  background-image: -o-linear-gradient(top, #c3d0d9, #9c9d9e);
+  background-image: linear-gradient(to bottom, #c3d0d9, #9c9d9e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #730673;
+  font-size: 14px;
+  padding: 5px 10 5px 10px;
+  text-decoration: none;
+}
+
+.btn-success:hover {
+  background: #11689e;
+  color: white;
+  background-image: -webkit-linear-gradient(top, #11689e, #0a446b);
+  background-image: -moz-linear-gradient(top, #11689e, #0a446b);
+  background-image: -ms-linear-gradient(top, #11689e, #0a446b);
+  background-image: -o-linear-gradient(top, #11689e, #0a446b);
+  background-image: linear-gradient(to bottom, #11689e, #0a446b);
+  text-decoration: none;
+}
+
+</style>
