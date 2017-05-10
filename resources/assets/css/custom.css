@@ -1,0 +1,22 @@
+<style type="text/css">
+        
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+}
+    a {
+        color: white;
+    }
+
+    .btn-success {
+        background-color: #155BD0;
+        color: white;
+    }
+    .btn-success:hover {
+        background-color: yellow;
+        color: black;
+    }
+}
+
+</style>

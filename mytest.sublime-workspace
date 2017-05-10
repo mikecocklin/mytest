@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"t",
+				"table"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/ListController.php",
+			"settings":
+			{
+				"buffer_size": 2092,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 1096,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/mail.php",
+			"settings":
+			{
+				"buffer_size": 4212,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 577,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php",
+			"settings":
+			{
+				"buffer_size": 2357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3442,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 558,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 55.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/mytest",
+		"/C/laragon/www/mytest/app",
+		"/C/laragon/www/mytest/app/Http",
+		"/C/laragon/www/mytest/app/Http/Controllers",
+		"/C/laragon/www/mytest/app/Http/Controllers/Auth",
+		"/C/laragon/www/mytest/config",
+		"/C/laragon/www/mytest/database",
+		"/C/laragon/www/mytest/database/migrations",
+		"/C/laragon/www/mytest/database/seeds",
+		"/C/laragon/www/mytest/resources",
+		"/C/laragon/www/mytest/resources/views",
+		"/C/laragon/www/mytest/resources/views/auth",
+		"/C/laragon/www/mytest/resources/views/auth/passwords",
+		"/C/laragon/www/mytest/resources/views/layouts",
+		"/C/laragon/www/mytest/routes"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/index.php",
+		"/C/laragon/www/mytest/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/C/laragon/www/mytest/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/mytest/composer.json",
+		"/C/laragon/www/training/resources/views/testpage.blade.php",
+		"/C/laragon/www/training/routes/web.php",
+		"/C/laragon/www/training/database/migrations/2017_05_04_231627_posts.php",
+		"/C/laragon/www/training/database/migrations/2017_05_04_231640_comments.php",
+		"/C/laragon/www/training/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/training/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/laragon/www/training/.env",
+		"/C/laragon/www/mytest/.env",
+		"/C/laragon/www/training/database/migrations/2017_05_04_225308_create_testones_table.php",
+		"/C/laragon/www/training/resources/views/welcome.blade.php",
+		"/C/laragon/www/training/config/database.php",
+		"/C/laragon/www/training/artisan",
+		"/C/laragon/www/training/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php",
+		"/C/laragon/www/training/vendor/laravel/framework/src/Illuminate/Database/MySqlConnection.php",
+		"/C/laragon/www/training/vendor/laravel/framework/src/Illuminate/Database/SqlServerConnection.php",
+		"/C/laragon/www/training/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/C/laragon/usr/sites.conf",
+		"/C/laragon/data/training/db.opt",
+		"/C/laragon/www/training/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php",
+		"/C/xampp/htdocs/quickstart/src/app/app.component.ts",
+		"/C/Users/mikec/OneDrive/Documents/test.php",
+		"/C/laragon/www/training/database/migrations/2017_05_04_172638_create_tasks_table.php",
+		"/C/laragon/www/training/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/training/server.php",
+		"/C/xampp/htdocs/quickstart/src/app/app.module.ts",
+		"/C/xampp/htdocs/quickstart/src/main.ts",
+		"/C/xampp/htdocs/quickstart/src/styles.css",
+		"/C/xampp/htdocs/quickstart/src/tsconfig.json",
+		"/C/Users/mikec/OneDrive/Documents/Hayloft/themeforest-9071935-wp-day-spa-salon-wordpress-theme/day-spa/day-spa/template-contact.php",
+		"/C/Users/mikec/OneDrive/Documents/Hayloft/template-contact.php",
+		"/C/Users/mikec/OneDrive/Documents/Hayloft/themeforest-9071935-wp-day-spa-salon-wordpress-theme/day-spa/day-spa/includes/widgets/ct-widget-hours.php",
+		"/C/Users/mikec/OneDrive/Documents/Hayloft/index.php",
+		"/C/xampp/htdocs/testsite/public/web.config",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/testsite/public/.htaccess",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/apache/logs/access.log",
+		"/C/xampp/htdocs/testsite/public/dbg-wizard.php",
+		"/C/Users/mikec/Homestead/scripts/homestead.rb",
+		"/C/Users/mikec/.homestead/Homestead.yaml",
+		"/C/Users/mikec/Downloads/SublimeText/testsite.sublime-project",
+		"/C/Users/mikec/Homestead/Vagrantfile",
+		"/C/Code/testsite/_ide_helper.php",
+		"/C/Users/mikec/Downloads/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mikec/Homestead/key.pub",
+		"/C/Users/mikec/.vagrant.d/insecure_private_key",
+		"/C/Users/mikec/Desktop/php.ini",
+		"/C/Users/mikec/AppData/Local/Temp/BvSshSftp/Bv000d47/Bv0015c5/php.ini",
+		"/C/Users/mikec/AppData/Local/Temp/BvSshSftp/Bv000d47/Bv0016a4/php.ini",
+		"/C/Users/mikec/AppData/Local/Temp/BvSshSftp/Bv000d47/Bv000d9f/php.ini",
+		"/C/Users/mikec/Documents/WebProjects/testsite/vendor/laravel/homestead/src/stubs/Homestead.yaml",
+		"/C/Users/mikec/Homestead/key",
+		"/C/Recovery/OEM/ResetConfig.xml",
+		"/C/Users/mikec/Documents/WebProjects/testSite/Vagrantfile",
+		"/C/Users/mikec/Documents/WebProjects/testSite/public/index.php",
+		"/C/Users/mikec/Documents/WebProjects/testSite/vendor/laravel/homestead/src/stubs/Homestead.yaml",
+		"/C/Users/mikec/Documents/WebProjects/testSite/.vagrant/machines/default/virtualbox/id",
+		"/C/Users/mikec/Documents/WebProjects/testSite/.vagrant/machines/default/virtualbox/private_key",
+		"/C/Users/mikec/OneDrive/Documents/WebProjects/testSite/vendor/laravel/homestead/homestead",
+		"/C/Users/mikec/OneDrive/Documents/WebProjects/testSite/vendor/laravel/homestead/Vagrantfile",
+		"/C/Users/mikec/OneDrive/Documents/WebProjects/testSite/Vagrantfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"remeber_token",
+			"mod_",
+			"mod_rewrite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/ListController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1433,
+								1433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 776.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								856,
+								856
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/mail.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3141,
+								3141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1885.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mytest.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\testsite\\config\\training.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 426.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
